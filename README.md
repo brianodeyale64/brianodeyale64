@@ -4,28 +4,6 @@
 ## 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/brianodeyale64)
 
-# 🚀 Featured Project
-
-<table>
-<tr>
-<td width="45%" valign="top">
-<a href="https://github.com/brianodeyale64/nicked"><img src="https://raw.githubusercontent.com/brianodeyale64/nicked/main/docs/screenshots/landing.png" alt="Nicked" /></a>
-</td>
-<td valign="top">
-
-### [Nicked](https://github.com/brianodeyale64/nicked): *Nicked? Now you'll know.*
-![HackUCD 2026](https://img.shields.io/badge/Built_at-HackUCD_2026-FF541C?style=flat-square)
-
-AI that watches a shop's existing CCTV and flags moments that look like concealment. The owner reviews them, and nothing goes to the Gardaí until they confirm.
-
-**I built the backend:** clip uploads, ffmpeg frame sampling, two-pass AI vision checks, the review queue, Garda incident reports and Stripe per-camera billing, covered by 60 tests.
-
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-%23626CD9.svg?style=flat-square&logo=stripe&logoColor=white) ![OpenRouter](https://img.shields.io/badge/OpenRouter-6566F1?style=flat-square&logo=openai&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=flat-square&logo=zod&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-
-</td>
-</tr>
-</table>
-
 # 💻 Tech Stack:
 
 **Languages**<br>
