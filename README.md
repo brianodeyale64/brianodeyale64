@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Building projects in Java & JavaScript<br>⚡ Fun fact: I practice data structures & algorithms on NeetCode
+🌱 Building projects in mainly Java & JavaScript<br>⚡ Fun fact: I practice data structures & algorithms on NeetCode
 
 ## 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/brianodeyale64)
